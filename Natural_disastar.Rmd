@@ -1,6 +1,6 @@
 ---
 title: "Natural Disaster"
-author: "Milica Pajkic, Martina Heidemann"
+author: "Milica Pajkic, Martina Heidemannnn"
 date: "2023-02-17"
 output: html_document
 ---
